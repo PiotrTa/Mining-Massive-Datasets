@@ -1,8 +1,8 @@
-# Mining-Massive-Datasets
+# Mining Massive Datasets
 
 Assignments from the course Mining Massive Datasets (2018) at the Technical University of Munich. 
 
-Content based on YELP Dataset:
+Implementations based on YELP Dataset:
 
 * [Duplicate review detection](https://github.com/TenPiotr/Mining-Massive-Datasets/blob/master/Duplicate%20detection%20with%20LSH.ipynb) 
    #localitysensitivehashing #LSH #cosinedistance #YELP
