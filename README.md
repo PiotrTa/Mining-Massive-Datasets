@@ -8,7 +8,7 @@ Implementations based on YELP Dataset:
    #localitysensitivehashing #LSH #cosinedistance #YELP
 * [Rating prediction](https://github.com/TenPiotr/Mining-Massive-Datasets/blob/master/Rating%20prediction/Rating%20prediction%20with%20matrix%20factorization.ipynb)
 #latentfactormodel #matrixfactorization #optimization #gradientdescent #alternatingoptimization #YELP
-* [Review generation using Hidden Markov Models](https://github.com/TenPiotr/Mining-Massive-Datasets/blob/master/Rating%20prediction/Rating%20prediction%20with%20matrix%20factorization.ipynb) #HMM #generativemodels
+* [Review generation using Hidden Markov Models](https://github.com/TenPiotr/Mining-Massive-Datasets/blob/master/Review%20generation%20with%20HMM/task_03_hidden_markov_model.ipynb) #HMM #generativemodels
 
 
 
